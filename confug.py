@@ -34,7 +34,7 @@ DATABASES = {
     }
 }
 
-  3  TechReviewProj/TechReviewProj/urls.py 
+  3  TechReviewProj/TechReviewProj/urls.py
 @@ -14,8 +14,9 @@
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
